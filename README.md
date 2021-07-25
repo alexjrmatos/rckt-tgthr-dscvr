@@ -1,4 +1,4 @@
-# rckt-tghtr-dscvr
+# Rocketseat - NLW_Together - Trilha [Discover](https://app.rocketseat.com.br/node/mission-discover)
 Repositório dedicado ao projeto Rocket.Q da trilha Discover relativo ao NLW Together.
 
 ## Primeira aula
